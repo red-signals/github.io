@@ -11,7 +11,7 @@
     const robserver = new ResizeObserver((entries) => {
         entries.forEach(entry => entry.target.dispatchEvent(markmapResize))
     })
-    
+    document.addEventListener("pjax:send", () => { robserver.disconnect() })
     const autoFit = (el, obj) => {
         robserver.observe(el.parentNode)
         el.parentNode.addEventListener('markmapResize', debounce(() => obj.fit(), 100))
@@ -68,3 +68,4 @@
 if(document.querySelector('.markmap-container')) {
   initMarkmap()
 }
+document.addEventListener("pjax:complete", initMarkmap)
