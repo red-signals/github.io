@@ -23,131 +23,20 @@
       </tags>
   </entry>
   <entry>
-    <title>dfdfdsfd</title>
-    <url>/2024/06/04/hello-world/</url>
-    <content><![CDATA[<p><img src="/./../Images/1664704729-v2rayNG-add-config-file-929x1024-1718273859269-1-1718294631548-1.jpg" alt="45"></p>
-<div class="note warning simple"><p>以下所有操作皆需在科学上网的环境下进行，并且对科学上网环境和质量有一定的要求！！！！！！</p>
-<p>非注册目前可以直接打开<a href="https://www.openai.com/">OpenAI</a>进行使用。</p>
-<p>注册用户则可以免费使用ChatGpt4o，或者付费开通ChatGpt4服务，获取更加智能的回复、上传文件和图片，并获享更多功能。</p>
-</div>
-
-<h1 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h1><ul>
-<li><p>打开浏览器，访问 <a href="https://www.openai.com/">OpenAI</a> 官网。</p>
-<p><img src="/./../Images/image-20240604224312424.png" alt="image-20240604224312424"></p>
-</li>
-<li><p>点击右上角的“Sign Up”按钮，创建一个账户。</p>
-<p><img src="/./../Images/image-20240604224210152.png" alt="image-20240604224210152"></p>
-</li>
-<li><p>输入你的邮箱地址和密码，点击“Create Account”按钮。</p>
-<pre><code>注册邮箱如果没有，联系&#123;% label 管理员 blue %&#125;
-
-注册如果需要绑定手机号，联系&#123;% label 管理员 blue %&#125;
-
-注册如果失败，联系&#123;% label 管理员 blue %&#125;
-</code></pre>
-<p><img src="/./../Images/%E7%AE%A1%E7%90%86%E5%91%98.jpg" alt="管理员"></p>
-</li>
-<li><p>打开你的邮箱，点击OpenAI发送的验证链接完成账号注册。</p>
-</li>
-</ul>
-<h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><h2 id="苹果系统"><a href="#苹果系统" class="headerlink" title="苹果系统"></a>苹果系统</h2><div class="note green no-icon flat"><p>系统版本必须在17.0以上</p>
-<ul>
-<li>注册外区苹果ID<ol>
-<li>联系<mark class="hl-label blue">管理员</mark> 购买专属ID</li>
-<li>联系<mark class="hl-label blue">管理员</mark> 借用ID</li>
-</ol>
-</li>
-<li>通过store下载ChatGpt应用</li>
-</ul>
-</div>
-
-<h2 id="Win系统"><a href="#Win系统" class="headerlink" title="Win系统"></a>Win系统</h2><div class="note green no-icon flat"><p>建议在网页浏览器中使用</p>
-<ul>
-<li>打开任何支持的网页浏览器，如Chrome、Firefox等。</li>
-<li>访问 <a href="https://www.openai.com/">OpenAI</a> 官网。</li>
-<li>使用你注册的账号登录。</li>
-</ul>
-</div>
-
-<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><div class="note green no-icon flat"><p>下载Google play商店</p>
-<p>登录谷歌账号</p>
-<p>搜索下载ChatGpt应用</p>
-</div>
-
-<h2 id="其它系统"><a href="#其它系统" class="headerlink" title="其它系统"></a>其它系统</h2><h3 id="在其他应用程序或脚本中使用"><a href="#在其他应用程序或脚本中使用" class="headerlink" title="在其他应用程序或脚本中使用"></a>在其他应用程序或脚本中使用</h3><div class="note green no-icon flat"><ul>
-<li>在你的应用程序或脚本中，使用OpenAI提供的API密钥来进行身份验证和访问。</li>
-<li>API密钥可以在你的OpenAI账户中生成，然后在应用程序或脚本中使用。</li>
-</ul>
-</div>
-
-<h3 id="API密钥的安全性注意事项"><a href="#API密钥的安全性注意事项" class="headerlink" title="API密钥的安全性注意事项"></a>API密钥的安全性注意事项</h3><div class="note green no-icon flat"><ul>
-<li>不要将API密钥暴露在公共的源代码或配置文件中，以免被他人滥用。</li>
-<li>在本地开发环境中，可以使用环境变量或安全的配置文件来存储API密钥。</li>
-<li>在部署到生产环境时，确保API密钥的安全性，可以考虑使用密钥管理服务来管理和保护密钥。</li>
-</ul>
-</div>
-
-<h1 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h1><p>以上是简化的账号创建和在不同客户端使用账号的流程。如果你有任何其他问题或需要进一步的帮助，随时联系<mark class="hl-label blue">管理员</mark> ！</p>
-]]></content>
-      <categories>
-        <category>ChatGpt</category>
-      </categories>
-      <tags>
-        <tag>ChatGpt</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>科学上网工具下载</title>
     <url>/2024/06/05/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD/</url>
-    <content><![CDATA[<h2 id="Win系统"><a href="#Win系统" class="headerlink" title="Win系统"></a>Win系统</h2><div class="note green no-icon flat"><ol>
-<li><h3 id="下载Watt-Toolkit"><a href="#下载Watt-Toolkit" class="headerlink" title="下载Watt Toolkit"></a>下载<a href="https://steampp.net/">Watt Toolkit</a></h3><h6 id="安装并开启Github加速。国内网络访问Github不稳定，需要通过该软件开启代理加速服务，然后才能下载后续我们需要的软件。-GIF-2024-6-5-14-34-43-Images-GIF-2024-6-5-14-34-43-1717569575747-3-1718343209172-1-gif"><a href="#安装并开启Github加速。国内网络访问Github不稳定，需要通过该软件开启代理加速服务，然后才能下载后续我们需要的软件。-GIF-2024-6-5-14-34-43-Images-GIF-2024-6-5-14-34-43-1717569575747-3-1718343209172-1-gif" class="headerlink" title="安装并开启Github加速。国内网络访问Github不稳定，需要通过该软件开启代理加速服务，然后才能下载后续我们需要的软件。![GIF 2024-6-5 14-34-43](..&#x2F;Images&#x2F;GIF 2024-6-5 14-34-43-1717569575747-3-1718343209172-1.gif)"></a>安装并开启Github加速。国内网络访问Github不稳定，需要通过该软件开启代理加速服务，然后才能下载后续我们需要的软件。<img src="/../Images/image-20240605134704916.png" alt="image-20240605134704916">![GIF 2024-6-5 14-34-43](..&#x2F;Images&#x2F;GIF 2024-6-5 14-34-43-1717569575747-3-1718343209172-1.gif)</h6></li>
-<li><h3 id="下载V2ray软件"><a href="#下载V2ray软件" class="headerlink" title="下载V2ray软件"></a>下载<a href="https://github.com/2dust/v2rayN/releases">V2ray</a>软件</h3></li>
-</ol>
-<p><img src="/../Images/ym2zb3bs.et3.jpg" alt="ym2zb3bs.et3"></p>
-<ol start="4">
-<li><h3 id="解压V2ray软件"><a href="#解压V2ray软件" class="headerlink" title="解压V2ray软件"></a>解压V2ray软件</h3>打开后，联系管理员获取科学上网线路节点。复制管理员给出的节点后按照下图操作之后，右键点击右下角软件图标参照图片做出设置。<img src="/../Images/GIF%202024-6-5%2015-30-24.gif" alt="GIF 2024-6-5 15-30-24">  <img src="/../Images/rpyxbhyc.ls2.png" alt="rpyxbhyc.ls2"></li>
-</ol>
-<p>  至此电脑网路便可访问<a href="https://www.google.com.hk/">Google</a> <a href="https://www.youtube.com/">Youtube</a> <a href="https://chatgpt.com/?oai-dm=1">ChatGpt</a>等网站</p>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh,这是一个无效的密码，请联系管理员获取密码！" data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="d5dc3c69480e29ef3679cfa0cc459e5185f907f7d0a5387e90565eff4006d1e4">31c36449d9bfb570fec2008cb0060e9bf43eb8a47eb1d6d3beb50c93cd16e82ad68fc644e4ff71072891e56fb410f0df971aa56059f2fe27f456b8f193321610f5c89174968aa5263e83878b506b82d0a86abe918747acce22cc931f529349a916d397530b2873e2643841dfc3694e5c58c21defd11e3491e58b38808a46a540779e55a19067b7c30c893bb9a4de1e44531898ca55048f555729bb478b81f5c3768c5435a0768439b400bcade93ae80c098179a8222ee15a0c38421614b94d4dc2099381df262110338793d5ff98fd2fb3dfabea309c34a65c56162c528baabe329054e654f4b32b439d70e9247323b8aa1334b54bf9c4f86905adcc004dccf360db1209eaa3e5d1fa5f5e0e8506015078e11bd13f86dd7a9e62b0eb8c47ddc96634a482887642db6cddd351215a7c868d81b85ecb69068f8f212ac4461ed7c071c8e1405244da77a34c0af674da93662d2ebb54a735cf75e6b8b5abad15ab6ea820107e943f5404dae0acc13cc85b821e6ded5d1001a35f261dcf6e301b9be7f14b483fce9122e0acbf3e104a43a5572cca97a514641c6126fe568fd031cbe94a66b710bb5fd5c1b5ce34523d80e486a73d210d91c0de4f0cd2b766d22d5a7754a8f972ab7bfa80fb90cb6c746ce9cccb2f3de6a1a7632f49e8a95a42540a35f491c3ea2d08f4424d471412cd24c38236c0905fa37e65adfe30725001d1834296f2cc798610b600c3fd7cccf72fd39886e846d435719f850d96a65b3e07a4623cdaddfdc300727fb4214a2c1f9faceebe4c945c12780083b780aa00556286862e9b5c7827e34ce70f02e5cc6e8b6b688896043cdfc6f724665b0d2b9efe9d56ebe8c7db3705f4be1959c43b0a341aaf62633076db8f72ff98413f2da27ee0e45e58e17ad454c6a2e3a05d18dc731d41f41d6a6c01e1f499cc6a8bb9072d2e458282da99ab740325811c3ed85cd6db62a47a578ce8d3c76f0c5fba4400bfde3952abc8919b9a2387ff55ac92e00f51b09143d28845287d335815a6342f0d434377e5c44e77b37ab04039c3af6dfe70383fd7835f0d282a26a616644fcac7325296f6e612e304187bdfe4c24a997bed65a3f7a062e0fa81644efb07039f4973c6ad0018d654127200b43e221790b3332129ea29d33a468f8c6f730dae3f8a4c1d01a2ac0aab188a01418d262edbda5b5c6d7e2d9943553e53479d5e87d4de61bcf76ffbf25f9bf29e79e142cc07ec69c948015868622e7a29c7a4c1a152d208f7d56df956bd4d78064f242b5ab9e727badadee1c10a6df9078fcc395426b045048ea3ffb93eaae163f03e710f553fcebe49647ab7f6d01b68194990d0564be5e8923cf66d417b34b4b0b469dd1bb1d8464e7888d19899b96a5fb3a14924f131dc0803cd1defcb35f795c3b668c6daafc498807812e8c37a29d5271733726e08fd4b9da701e224bb5023e4a80800ee54e78f42872e2fbdaed7edd1479b049f57dee7fd4933f0e0de80810318efc92de71c6f768de8a0ccde9c59bda2fb9256590c2077a77465dd6b4b6f1db741c6ff796746b5f3ea1101dbdc03478b702c972e98f2d7e06fef38c7bef5278c6f3668c55870c9ba5fc27916e25ffd1fdf20f0fc8b249786facbfe1ef25be3d4d0e3ac290e3190bbc9ee63963c371effdd312abb3ae7190d1f1462cd2b9ba3a1c267940712c7471e9939af16847bb696070d9c2c81179f4303d3fbb5c03e2c00c9eef231dd46d70c0fd7e1e3bdab3fe4a8de93b5f92a207413a46bbd59bb5b96c0db3bf9eb987dd70101122c69780ff023963877e07f8107d4d56098a8032332be47fb408837c00309201a43f5dafa46e0460f465ae07724c40be18f1e31d7ef9904a94abb8c3f631025bfccc8d6b70ca06d57edeb7214e1273cb21132667e74de7e0d4fd77cbc545626d9105a2c6df6f66ba330ca9cf4da9803df8ccfca76f0aa5dd70ef5defe4d740b266c1d71af753eb37b96ad5d12c37d79da20c979e23a3a5476e7f373002951b6a925b53feb4fa6ceb4b45ebce891728aa02db6e521a5d493ebad1e0090a038a1b147cc459797c7bab595007cd1471e501b022095fad576d2e5435458d31b4719b2ce31bb6550b8f6907746cc8df835b0ac2f5cc336e40d5000eb6e47e1cb7fd42dbb926acd706bc6d0b4665600a14659efc019012d730a8c4b6db706997ac34d4a8e7d57d85a3f1a5a1b359a62a86f9fbb41083c264ab44c50dcb0eca7286732556e10370e5dbde953a32b3049cc2d6ed2373a5cfea0b50532806dc2e33b6cc259dc797eef9fb6c0bffab491600cbc3c4c24769d60f7e04941de59430f8b7c7b8b47dc21f9f1bfe481a9cb3506d155a3ec658d93bfe40a06da98433163830d9d404063a13b1b925141a416da189bb7d716db77515d1934383ee60fe28ec32736cdeeb8580d0a14bd7e4e4e7144f3a36800b24c2c7871328c514b6736e13722c0f7fb895963f44e495eb0d06ff0c946c46c69e210ea7a4048213c8ea7da5decf5e6d3f49091a2ec191cb2d7c82590844ffc78603bd8448dd44a8d589f9602384eb130e879dee74945a429626008a0f77d39ad97aa2f6450f6440a8ea16e25e9dcb6d38f01db9b7c79d199386ec1d9517db48ae042c522fc112dda41e6c6902f7b3af7ef62d3dface01a448a8309330e91afeabc2004dff4a31a573f58c251783dc758d0dde4b7b15e98dc8f8459357f8abe92717fcb0533eb9f32cdbf877e975507106de4aba93c13764d03356ae8288a66c46fa5258c8db52914ea2f1c60ffa46098d038536a57b9d27748fdabf94d8297c0e1fe91a082d9fa65ee1651e1cc708e3b7df701f735760a1c1c3b5f2fe894fb27a0d018091253cc5d8e4096422a1322476e4952053e7bd1febdcb8030698190531ae3a9bacba21b748d7d948b63d46aa391c7cf8c9ae6bc22bde2053cffa5201b87bb65d9a09efca7bb0a4bcbb4e60d21fdf4e34e209d1a3eb954d1b0e0727de005815824dfcaef178cadca24b52d3778ddcd917c0447643f3e6a12b14dbfd849d9bf443109adb855ce5b7d80dcde42e3a3bcb7d59c4fa76839a0a8c7d235f916b0835688ccf9649341ef77acc229c8230bfdffe326ef2617ae8ec5a9b71f18e5c536fa9896ec715befbf4d2ff3a74f4194f94d74c980f0a0187f2e1dc8e8816867b940e058d400b8178b0e555e6004a3503b46c6d889b51d6bfea950c5ee1d30175337b7d5da492e12834f57cdc6550bca821cf303ed220627b1a02ac61642758fe7e9d6a25c77829eb8c85e88b1c066b0c670ee60281bf6ad3bc62d1ab889868c70a125afd1e6c6c702adf343cbba285e423582b4c2738348db29c7595796d654f1581af7ce9c2ea4f686baca05409faa1715a8bbc5df13878d9e19d6a890c98f34ce5d09a73585ef157e15ddbcb4444b19be789f312280ff208b1b691a75198101c4b8283726e0d51de57ab9712e8c963e34a927f9dd92a51f0c1a9b48953b65e9d68a8b08ca82dfaab87583f16cf2fab471638078aed5c51aa0398bc7e08bdbe73fac56f62cdab1e5d0ec916d87b0d3735ce8e6263a76fa019b98729280f4e0e7d7b6437f713bf2a4a19d67f3b72e72b78d4bc8cf2a9d94e87b9e7d3f84b3e0f0fcf3185fb252af34672fd67a5c5f15395a87a363b973d0b0a5329c1bfc2771eee140e52a222f21c165f2f6548bce5f0a2a798fdd248c323ca53fc353492755300a01dd3d25d3e58f5edabda7d9d6fa8d0bbc55d66351965a388f43458afae6a4e397216c9ab1795a904b57eae13b19631b89e74d75481bd5fed7667281cf7fba5622706e8e005ffd4c0c6fefc841d1e07e72676e76d99824632220e0b07db751a10e75cb3c737717c0f8596fe156739c0c5d60fdf4de56ed27448a39a7f4e626f8a971c93a29fd3c5ba38f509bab8da9f2e96f6401da23ae2ad72de64d73bdedbf0f5dac2e7ce02fb1d387b69226095df785eee02bc88104ecdac8c982d5c027b965a66446f4097131ec4c1a6bc8675b9a0c1ee3bb0f1783065dbc52bff7621e16a51aa478608630e5d425a65421982a21f56677708804891cec0d31de85d9ab52abbdbbd9cd38ae7608c39a07dc488570374ecaf45da74737c6bc1be6d71ac354bf6dd5fca9d85e1938606501adebb9c216ff8466e6c868e405e1fd557cbf1186a55c7db76539b00ec874f867b06201a5c9e6ace99b1338d6ed02a255af5b64cfb829c808df2f8b6fddb85baa46cb5b04a8089b6e3769845526ad9faf4d66c4d719a2264fd68550851d49e8eaac4d9db5458d370b6b4453bc5285290f4a674477f04dec945a5a69448c231dde20cb688c8c552e1670cff3409b38d4a22bba564bb6923c6604054ed2003f61d2095e50238c3c1842765596d2e677db5dc72f3f176290a0a46ea60ef62a1e44e9826d38b170c34fa6f13f7bfa001101a5cd890e5abb637f4df1b0ec0e95d77b4546eec2fac50c63bcf318851dc7f0a4227161912c9c6a76195bdd203cb906bf896bc84192637fddbc47b639159ff41f524de811ace1e806791dd01cb5d63201358b6c8fbe790ab10806a73a15d793f9372a1ff152eedae80f867f02221d39ee5e7fb7f62f76addd9e9f74833d9153a02e0ab71c24baa9c901fae0865feefaae0e993e57374fdd8097e563cedbfda94ad068c2a5d55e0435b67606686c135be503454971b9230635765407b64d35110fdc0abf765bed94e90e972043951f5684cdb45c66ef62aaf0dac9c6ca4480a70f8d94236c0efa758c105c49fb0eb2472bede1f9dbc1c021a0e97ed803a0ae4ad06b3f29b1bb4b39bb2bc9544889b25b5f8e1b9fbce48102d66fe29760fdba59ea235b045109f19fa48fed1a3edc7188ab2c045ed1fe052a094578407236e7e29459a4aa18a968661236838acbac49605c8b2b1727997a9e16ac510288b922ac16397de03c619344cbdec3c04990510cddd982f41402ed7c43f1dd223e55572e8cfeeb115a83e95c0b580529ec00165692c42195b4b70fa53b06425518f52a7449d7dbb3f89d3b8399401fbe76b56783dd9d4bd1008b9b81eef9ba8491e810ef9b6d00dc570ab660b36af884cfae4ac9e92d984534e488fb539a2d05c30fb829bed2ac5c7d56f9721f352fed14cb68ce45c2097e857c6b29b4099e16edddc63705a80908d5232025a81e3038849756876158e4c9f6a5eaa61a8f6da29809af386c42f81d6b697b31e573ad973c4c89c7bbcdde5c0819cbe857a9f98e2b50663775a09baae4544a1c7faf8765e32e7dfc845b4c952b7157018a1d9048754b4e3e72e98c873be7741cd423e2fc01edc1e3981047606143e03ad3650c4935b7966ad8894a7eedc5b20ac7367ca55b0209d7f994dd1adbd91f4ae3388b3259d92b1949881b79c873fa82e866b8d6678e8170b003853a2c9b605ac010713c7add88443b279200c9247813e8fc21909f555d5e0275ef868733787ec142af10f78a56b89f15eca391824cc91e4fa59f905dbdd563bfb7521c2c4500ceb1b396ab7d3e879f48fe44fb112b58edf0451e8b44f67a25439f296d2b1bfa79789a67a2fbba032c6a772fe5a9d1e46e9eca8fe882e7478f20278400298930952b29c317f43113b3fa942cc915ce106a939ab5a5b0e9f1c653defffd2d3a45c87189cc08bcef65f8e3f7eafa0816c9147745d7ca1a056aa48c5546b253f57b52ed8e802092f2394c42840efdf5b782f4596dda3c7800571a1221ef236cb4f6c4b2521074d8627111cd4bc55618785aa7cf2b79ac9966b20da171d5f1cb2d9fe400cb22edca39367f2a8f619aedd49b8f1a54bcc8fd696e1f63b65aaf1989b77cc73ea040a3a373e65331757e66d54075e41c79e835ca128b8dcdc5a182cd1da418364c7bfb7368255cd57c4830e39a6d079125e07e1bee62287ecde39f579fd41f7e1275566204c0c505138e7b516675170982d435a9f882d536852eea10b8d032f66a354da1c82cec1bd3e868794a8e274da82d55c2b4acbd106e9a20f341d511eca998f23888c1f6bb00ab793fb0e224fc517657c5f5a7728607c62f7cc5072bd3d3c5e86e3fe3493d7cc97865c77405af98a69792560706d9b18a6fe53e0fd5452d3e24670dedfa1b15782630156faa5d886444c6b05dbc86188046298ebb5713a1c5262fd57108696912494bdb9e2fd50a3d3a4420a600ca897ede338681fac0f85153b9eaf16fac24a93eabbff05c2303703e3b643c30034c92b39b265d830f75e91aca87ddad3d604b11e174c32fadaf410aef9696074f0f3bbfa7ac290623e4e792e630639aef9ba3238df822786605721a99b1c01411a1bee22c9fdd8bb26b62d8c36ee396fd2198d6174f97b1a253adca2082cee1086a422297f5b474b6c23d8987b3fa6fa7e33467f5aeb03a82d5cba6311c70523be475248a2b5f6098d7ded3bd1e28fdd9aefca2b37315edd60bbe1a9485727d8c848bb378d4125e5e95929431369edab8ec32cb4c1b5b35fc7186eeb89d79bea9d8db842db83cc8f7075d8bfb038517fd0f6375e612bfcbc172197cbb5f99e6e0bef2cc63bd04305da5cea7aa90f7874744a98c29f2db4decf34da2b58df1aa276c34d4a2fe0d34b15eeb39c36a4f3972f5033eda8acf20fe9322fb22b7bf69885d91a7609c8e47a7d20de3c1d7b0f70b4501648acba98bfea86ab8499f678e68b0b0fbc722ce479d7ee99713e918b61e06d65cd9f65cef1ce10ded8aeeb4a5231996395aa91dcf2dff1a67e7f2443f7301c4e52c4fdd497c75c6bf5efbd9f9d2541202302c9c02fb632eea1d8dfd713d1fb1745fd4caef5f5130548ddad9872a57777fd4b5405493a5c3ba5bc37faef704281963180930fe69099d28b19618ac0d16207232ea1f66430dfc6ba7c21a72b938a8eebd4c520eb0fee7279c9a90d9407b3e7fe932e98cc4b483f7f11750e5cc52b407cf55d823da4af80379af45fb3241e79374bb3e6567dbe14f02e6ad18a2e1821ee5b3c154fc59e957c28f10a5d14fe524354de76636ab4f18c27e7964fc732189da1d720946241de5d06a9195425c701a6a19048337bcb0db783eb1a46b1cb30271d2ae6e75c54fdab556f84c894ebd3cb0f03c64b19a3ee42cfbf71c273242d40694e79975d34e2203edfd4d709a525eeefcef54b96271ffaee7f5b72e1dbc837469320054909629fdfaec9a0658cb4f0155133e95ec1e4b0eabd8dd6e9897c79bcdec780e50289e8e4bd3907a5adfd29551d0dca373e1a41a05282f7cb1d3701ad5ac977c9bac5ff8c4f2bddfb1cd1cff555754771f03cdbd21a4683bcac1d28a169f5d9193c24fd7d0a8101b2c5e0a92c16a5e3323f770ab6d52876c80153ca8e85f4bccf0e0d8fb28e634c283a1f715080378ccd284498f2fb7ebd025fb32c2b5254cc97227bc69c0d248627b56069321e5f84cae7c24b2229aa945177bc70a41c4e956b6ee7c42254deefcd8035b46b436d384c121f4d60fdf1fdd2542cbcbdd4887bb693bf6b8c53855e5c9304ba705e066fa46378c0c7ba0b11f07d1770feb9e68388017cef52b468ff2a2ad8f6849ef04e18bdb9cbd1f7bf8067a89bbec5156ea56fac86b46aa9adbecf3faeda2e18c428ff0794cd06b00da004fb4c60f6c2a1c32075173923f29bbb1e492e5b00aeedbcd12d85b9e5194dc957f24e1177c020a7e71a15f0f4d1ddd791f4d4a8a0a4191446087c4ff8fde6fb482ce5590df55bfc620595ec7ad8818dbf8df95bda442857d0376ee71754343899903c9d3b9c7ab5ce7cc3c09761564208b2d6b12a11cf2e9e5e6f8c02f5ebb032ad4bfeda6b784a17b0312a1e93fa5624452c1802dff9d194bb4b3078adcfc7416f38d67084c7a5c9f311e888a23fb9f6856a6ec40ebb765f0135b3f4dff2f24bf80f67f3fef4a9ae73b4ca63b569b46b08c00843e9b6b3365706e312f934b0233406bf2c6caaf4923b225e93df496d4f7472e15fa32a9540adaf6482313a44b791c4f9db2cd215beeb7c957574dacfb644b121dbc5087d5a29035ca1c11dd3bea5564730c44e174fa611cd2b9b307aae56c4239f9b67de3041b47bf041d2c073d6553e1e02f8b39f2188e15f01073a4c79f3aac1290603ced1da18838045f47aeb12ff618aaed2f240015cfd954f6d332279e417b0adb742d4571328204c59e8c2edf171ce18ad205bcc781c5ca466af02df6b84dc474819b2a48e04bcd6c0e52ac0aab9ebb1de65d778705a49036d5c2fe71220b315692ee6fcf4e52f602610676d3feb3fb5868e3c127da908bb2d3eaeddf90b7859752638337574f692ba54e9b5bae5932829ab158752e3f2c66f219e031b540c623888ee6edea3d9feb7dfdd7c8ff3068ec826e941f49b660d3a9d62cd5e13d8ff990b200264c9788712b4610b67721a73c27c70d562be40ce14a39fccb26b74b0c9031b0a34bc85a5ca99684dd7384e42dce9943efbf03fcca6ba45792589054c72531babbb65a4c2940d8298b085de86dd672fb3e02aeb4c827626c5722eeace4aac3fbee2f4ba100f3f4401d34b18de3d1b04aff4317acebbcb2e72492e5ed43ecb1208c17c1da50a329376d70bb1dea52c1fc7b7ab8ec824984dae79a3bb28eace35ef539bde0734fd324a8fe599f98be119127ecaf7feef54f4a6ff9b4b15e8709d18d8d37a55629256c8eba00853c90ddd76bafa00bce5dcac54893ec72f35a953a82074558005124053806afb7c17eaa73c006f5a48ce503256f871ae05c84f1c91cd425e2cf2df24b66c063e476abcc0227c48f5c12ec40abbc1f6901c0b35e1dbb8dfebfb53b650a94d05fc039a08c8b5243289f602a9ec81410d85ece96c1268d375f25c5c2cbbfe9f2b087a01c6eb91ee715d45dea1e5b826358c9b3648fc4cb17f18cff4529eb0018efba4db21cd561929dc21eaaa327c8f1f719f760733c781035beb506351002ee7ddb96f071b0be002ee0e81c57ec1211e3f9640fbf57446403d51dbd6ac4e512ef07bc96b01ce0f74c6fbb93837140c9e62cfc26e09899c5ee206e0aa521ddeb44d8d07e2097e934db031db0ac0ded8cf2334c9af4ecca61f28784bc9237290762446d5d8dae46eb9607dc7b8525c68a518750c82a5e5d96619d075ea429632279b97dafcc3861d0a74b78a0515e0cd47ff7c5cfe7b54f02127e93090cd38dc8d42bffb2272285f4e1d05cd574aead59bdc7971c366149413bf2ef515363a18679a598d6be7c306835b4c0baf126b82a9c4feccd1590ec4d1bf27042fc72044f1f173549de9be340c57d07c4ffbc3b82f359ea612b47bca40f64a7b122b3e261e239098824f2313d5c05e38a9fe03a8f7dec6aac22a84feb104ea8ce6ce5ab4c3fcec048dd20305f7358849effbd621919bd136c7c675c4cf54a5ac79ea85b83a735da8dc6a6671d1789d8235713efa71899b019703acd538570de48d31e5ea1d15ab28aacadefc7e0885cbca46b8d71f0be017ca42fd51c7bfce1e6e3b56e2d302dfe7b29911f0dce2890d0f7c489100d9070d21d6cda8cb6d9ab3e515956aefc92af8d7f195a9531e87eae8acfac20e4efb152e4cd8773f131cbe534e510856701e9be49ca7a90949e2984ce1123698e2d13d0ee51df99510c993e5a19b4074a8429b865f6b6e27981fdf6a593494a08cd229693fff5ce17e85992953b8ae679fcffb2791e046e416e28f8a0faa2627f250a728e2add353a6f0f390548c5b3d7728146abdeb8c969e389b7cf42c5294ce6c695403753f3f10f9aa02c0753e8af85ef7baf3254e23e683e5135af01efb3aae842ff9b473bd9d1492d4ba44d98f6af52aebc535c3183738d80a704f11e809c6b19f89fedb57e4d3bfb2aeb2d72f51fa819d06e3da01675df7e273d06509e78d641abd5d50c4ea031d1207e77fc8f9e2b30b458749806bfed7fcb276f438dbfc8687c998cec638198c89544ea1cb4d89943df65e937c8c352583ebf4f2da6f4631682677f4e8410103813f4fd0d9a4949dcc54cc2322410b4be022aa6458930bfe0c549c9829faaf415b34b70b7d3e4ae38</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请在这里输入密码 ！</span>
+      </label>
+    </div>
+  </div>
 </div>
-
-<h2 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h2><div class="note green no-icon flat"><h3 id="V2rayU-简介"><a href="#V2rayU-简介" class="headerlink" title="V2rayU 简介"></a>V2rayU 简介</h3><p>V2rayU 是 MacOS 系统即苹果电脑系统下的 Xray 代理软件客户端，支持多种代理协议，如VMess、VLESS、Trojan、Shadowsocks、Socks5等代理协议。</p>
-<h3 id="V2rayU-界面预览"><a href="#V2rayU-界面预览" class="headerlink" title="V2rayU 界面预览"></a>V2rayU 界面预览</h3><p><a href="https://www.linuxxray.com/wp-content/uploads/2022/10/1664705558-V2rayU-Main-Mode-Import.jpg"><img src="/../Images/1664705558-V2rayU-Main-Mode-Import-1024x971.jpg" alt="V2rayU 服务器设置主界面"></a>服务器设置主界面</p>
-<h3 id="V2rayU-下载"><a href="#V2rayU-下载" class="headerlink" title="V2rayU 下载"></a>V2rayU 下载</h3><p>Github仓库地址：<a href="https://github.com/yanue/V2rayU/releases">https://github.com/yanue/V2rayU/releases</a> 新手使用建议下载稳定版本，即版本号后标记为 <code>Latest</code> 的版本，新手用户推荐使用此种方式安装。</p>
-</div>
-
-<h2 id="Phone"><a href="#Phone" class="headerlink" title="Phone"></a>Phone</h2><h3 id="Iphone"><a href="#Iphone" class="headerlink" title="Iphone"></a>Iphone</h3><div class="note green no-icon flat"><p>苹果手机需要Shadowrocket，Shadowrocket 支持 VLESS 协议，所以支持 Xray，是一款十分好用的 Xray iOS 客户端。该软件是收费软件，需要在App Store购买后才能使用。如有需要联系<mark class="hl-label blue">管理员</mark> </p>
-<h4 id="Shadowrocket-下载地址"><a href="#Shadowrocket-下载地址" class="headerlink" title="Shadowrocket 下载地址"></a>Shadowrocket 下载地址</h4><p>官网下载</p>
-<p><a href="https://www.linuxxray.com/wp-content/uploads/2022/10/1664716478-Shadowrocket-Apple-Store-Snapshot.jpg"><img src="/../Images/1664716478-Shadowrocket-Apple-Store-Snapshot-1024x683.jpg" alt="Shadowrocket App Store 界面"></a>App Store 界面</p>
-<p>APP Store 地址：<a href="https://apps.apple.com/us/app/shadowrocket/id932747118">https://apps.apple.com/us/app/shadowrocket/id932747118</a></p>
-<p>中国大陆 APP Store 无法下载，可联系<mark class="hl-label blue">管理员</mark> </p>
-<h4 id="购买价格"><a href="#购买价格" class="headerlink" title="购买价格"></a>购买价格</h4><table>
-<thead>
-<tr>
-<th>区域</th>
-<th>价格</th>
-<th>直达</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>美区 App Store</td>
-<td>USD 2.99</td>
-<td><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">美区 App Store 下载 Shadowrocket</a></td>
-</tr>
-<tr>
-<td>港区 App Store</td>
-<td>HKD 23.00</td>
-<td><a href="https://apps.apple.com/hk/app/shadowrocket/id932747118">港区 App Store 下载 Shadowrocket</a></td>
-</tr>
-</tbody></table>
-<p><img src="/../Images/1664730631-Shadowrocket-150x150.png" alt="Shadowrocket"></p>
-</div>
-
-<h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><div class="note green no-icon flat"><p>v2rayNG 是 Android 系统即安卓手机系统下的 Xray 代理软件客户端，支持多种代理协议，如VMess、VLESS、Shadowsocks、Socks、Trojan等代理协议。</p>
-<h4 id="v2rayNG-界面预览"><a href="#v2rayNG-界面预览" class="headerlink" title="v2rayNG 界面预览"></a>v2rayNG 界面预览</h4><p><a href="https://www.linuxxray.com/wp-content/uploads/2022/10/1664704729-v2rayNG-add-config-file.jpg"><img src="/../Images/1664704729-v2rayNG-add-config-file-929x1024.jpg" alt="v2rayNG 添加配置文件"></a>添加配置文件</p>
-<h4 id="Google-Play-应用商店下载"><a href="#Google-Play-应用商店下载" class="headerlink" title="Google Play 应用商店下载"></a>Google Play 应用商店下载</h4><p>可以访问 Google Paly 即 Google 应用商店的朋友可以直接在商店搜索 v2rayNG 或打开应用商店地址：<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">https://play.google.com/store/apps/details?id=com.v2ray.ang</a> 直接下载并在线安装。</p>
-<p><a href="https://www.linuxxray.com/wp-content/uploads/2022/10/1664704828-v2rayNG-Google-Play-Snapshot.jpg"><img src="/Img/1664704828-v2rayNG-Google-Play-Snapshot-1024x683.jpg" alt="v2rayNG Google Play 软件下载页"></a></p>
-<h4 id="Github下载"><a href="#Github下载" class="headerlink" title="Github下载"></a>Github下载</h4><p>仓库地址：<a href="https://github.com/2dust/v2rayNG/releases">https://github.com/2dust/v2rayNG/releases</a> 下载稳定版本 <code>Latest</code></p>
-</div>]]></content>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>科学上网</category>
       </categories>
